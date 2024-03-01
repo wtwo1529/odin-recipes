@@ -35,6 +35,10 @@ ul li {
     width: 100%;
     height: auto;
 }
+ol li {
+    width: 50%;
+    margin: auto;
+}
 ul {
     padding: 0;
 }
