@@ -1,7 +1,11 @@
 * {
     font-size: 20px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    background-color: aquamarine;
+}
+body {
+    background-image: url("images/43afd01dc42127c352f1fde070cc2be0.jpg");
+    height: auto;
+    background-size: cover;
 }
 h1 {
     font-size: 32px;
@@ -14,6 +18,8 @@ h2 {
 .container {
     width: 50%;
     margin: auto;
+    background-color: rgba(255, 255, 255, 0.5);
+    padding: 5px;
 }
 h1 {
     text-align: center;
